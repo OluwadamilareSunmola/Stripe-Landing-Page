@@ -6,10 +6,15 @@ Welcome to the repository for my dynamic web page project which copies the . Thi
 
 # Features
 HTML Structure: Utilizing semantic HTML5 to layout the webpage, ensuring accessibility and a clear structure.
+
 CSS Styling: Advanced CSS techniques are employed for responsive design and aesthetic appeal. The usage of CSS variables and media queries makes the design adaptable to various screen sizes.
+
 WebGL Gradient Animation: A key highlight of this project is the WebGL-powered gradient background animation, providing a dynamic and engaging user experience.
+
 Interactive Elements: The JavaScript code integrates interactive components, enhancing user engagement through animations and responsive design.
+
 Responsive Design: The web page is fully responsive, catering to different devices and screen sizes, ensuring a consistent experience across platforms.
+
 Accessing the Project
 You can view the live version of the webpage at: Dynamic Web Page
 
