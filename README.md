@@ -2,7 +2,7 @@
 
 
 # Project Overview
-Welcome to the repository for my dynamic web page project which copies the . This project showcases a blend of modern web technologies to create a visually stunning user interface with interactive elements. The core of this project lies in its usage of HTML, CSS, and JavaScript, with a special emphasis on WebGL for gradient animations.
+Welcome to the repository for my dynamic web page project. This project showcases a blend of modern web technologies to create a visually stunning user interface with interactive elements. The core of this project lies in its usage of HTML, CSS, and JavaScript, with a special emphasis on WebGL for gradient animations.
 
 # Features
 HTML Structure: Utilizing semantic HTML5 to layout the webpage, ensuring accessibility and a clear structure.
