@@ -1,4 +1,4 @@
-# Stripe-Landing-Page
+# Swipe-Landing-Page
 
 
 # Project Overview
